@@ -1,1 +1,2 @@
-print("you have made changes to the collaboration code")
+def func(x, y):
+    return x **y
